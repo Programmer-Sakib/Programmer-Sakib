@@ -73,7 +73,7 @@ Skills: Git / GitHub / Chhrome Devtools / Sass / BOOTSTRAP / REACT / JS / HTML /
   <br/>
 </a>
 
-![sakib's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Sakib&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![sakib's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Programmer-Sakib&custom_title=sakib's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
